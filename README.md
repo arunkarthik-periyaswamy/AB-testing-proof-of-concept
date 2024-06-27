@@ -34,3 +34,4 @@ Feel free to check out my project work in this repository for a closer look at m
 
 [!NOTE]
 [Coursera A/B testing accomplishments](certificate.png)
+<embed src="coursera certificate.pdf" type="application/pdf" width="100%" height="600px" />
