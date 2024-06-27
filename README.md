@@ -1,5 +1,9 @@
 # AB-testing-proof-of-concept
 
+> [!NOTE]
+> [Coursera A/B testing accomplishments](https://coursera.org/share/75a50b645d5d361794b4e58440cf144b)
+> <img src="Coursera.png" width="100%" height="600px" />
+
 ## _(Udacity example)_ A/B testing can help you climb the peak of your current mountain. But it cannot help you decide which mountain you should climb. 
 
 A/B Testing with Google Optimize (Coursera)
@@ -32,6 +36,4 @@ Feel free to check out my project work in this repository for a closer look at m
 - Objective Definition: Establish clear goals for A/B test, such as increased clicks or conversions.
 - Final Configuration: Fine-tune traffic allocation, activation events, and other settings to optimize your experiment.
 
-[!NOTE]
-[Coursera A/B testing accomplishments](certificate.png)
-<embed src="coursera certificate.pdf" type="application/pdf" width="100%" height="600px" />
+
