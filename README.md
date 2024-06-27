@@ -4,6 +4,11 @@
 > License: [Coursera A/B testing accomplishments](https://coursera.org/share/75a50b645d5d361794b4e58440cf144b)
 > <img src="Coursera.png" width="100%" height="600px" />
 
+
+<img src="Coursera.png&border_color=#007bff&bg_color=#f8f9fa&title_color=#343a40&text_color=#212529&icon_color=#ffc107" alt="My Photo">
+<div class="image-title" style="color: #343a40;">My Awesome Photo</div>
+<p style="color: #212529;">This is a description of my photo.</p>
+
 ## _(Udacity example)_ A/B testing can help you climb the peak of your current mountain. But it cannot help you decide which mountain you should climb. 
 
 A/B Testing with Google Optimize (Coursera)
