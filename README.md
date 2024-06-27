@@ -33,4 +33,4 @@ Feel free to check out my project work in this repository for a closer look at m
 - Final Configuration: Fine-tune traffic allocation, activation events, and other settings to optimize your experiment.
 
 [!NOTE]
-[Coursera A/B testing accomplishments](https://www.coursera.org/account/accomplishments/verify/R6SNUGHN8NU7)
+[Coursera A/B testing accomplishments](certificate.png)
